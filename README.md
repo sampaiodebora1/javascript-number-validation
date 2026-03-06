@@ -26,4 +26,5 @@ The program checks whether a value is a valid number and applies validation rule
 In the terminal, run:
 
 node app.js
-node app.js
+
+
