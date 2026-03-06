@@ -1,27 +1,29 @@
-Projeto de Validação de Entrada em JavaScript
+# JavaScript Number Validation
 
-Função responsável por verificar se um usuário atende às condições necessárias para acesso a um evento.
+This project demonstrates how to validate numbers using JavaScript.  
+It focuses on basic input validation and logical checks using conditional statements.
 
-Conceitos utilizados: 
+## Concepts used
 
-Operador lógico AND (&&)
-Operador diferente (!==)
-Estruturas condicionais (if)
-Funções em JavaScript
+- Functions
+- Parameters
+- Conditional structures (if / else)
+- Number validation
+- Logical operators
 
-Descrição:
+## Features
 
-O programa verifica se uma pessoa pode entrar em um evento com base em duas regras:
+The program checks whether a value is a valid number and applies validation rules to ensure correct input.
 
-- A pessoa deve ter 18 anos ou mais
-- A pessoa não pode estar com status "banido"
+## Technologies used
 
-Se as duas condições forem verdadeiras, o programa retorna:
-"Pode entrar"
+- JavaScript
+- Node.js
+- VS Code
 
-Caso contrário, retorna:
-"Entrada proibida"
+## How to run
 
-Execução:
+In the terminal, run:
 
+node app.js
 node app.js
